@@ -1,2 +1,3 @@
 # R1
-Descripción del proyecto
+Descripción del proyecto.
+modificamos README.md
